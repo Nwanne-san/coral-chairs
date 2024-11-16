@@ -14,7 +14,7 @@ export default function Home() {
             <div className="follow-up">
                 <h4>
                     We love creating high quality and comfortable chairs
-                </h4>
+                </h4> 
                 <Link href="#chairs-collection" id="btn">Discover our chair collection</Link>
             </div>
             
